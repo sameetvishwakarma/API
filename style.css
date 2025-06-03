@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+body{
+    background-color: #ececec;
+}
+
+
+.header{
+    background-color: #2c2e31;
+    height: 470px;
+    color: white;
+    text-align: center;
+}
+
+
+.header-line {
+    padding-top: 60px;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 100;
+    font-family: sans-serif;
+}
+
+
+.header p{
+    font-size: 18px;
+}
+
+
+#card {
+    justify-self: center;
+}
+
+
+#head{
+    border: 1px solid white;
+    height: 336px;
+    width: 100%;
+    background-color: white;
+    justify-self: center;
+    margin: -230px auto;
+    border-radius: 5px;
+}
+
+
+.details {
+    border: 1px solid white;
+    height: 120px;
+    margin: -1px;
+    background-color: lightgrey;
+    border-radius: 3px;
+}
+
+
+.user-photo {
+    border: 1px solid;
+    margin-top: 58px;
+    height: 133px;
+    width: 135px;   
+    border-radius: 50%;
+    justify-self: center;
+    background-color: white;
+}
+
+
+#profile-pic {
+    border-radius: 50%;
+    margin: 3px 4px;
+    width: 127px;
+}
+
+
+#user-details {
+    text-align: center;
+    margin: -10px;
+}
+
+
+.details p{
+    color: #454545;
+    text-align: center;
+    margin-top: 12px;
+}
+
+
+.main {
+    display: flex;
+    padding-top: 166px;
+}
+
+
+.font {
+    margin-left: 38px;
+    /* margin-right: 50px; */
+    padding-right: 22px;
+    font-size: 29px;
+}
+
+
+@media screen {
+    
+}
